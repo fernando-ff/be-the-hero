@@ -1,10 +1,18 @@
 # Be The Hero
 
  Plataforma para o cadastro de Ongs, nela a instituição pode cadastrar casos que necessitam de ajuda e assim encontrar um "herói" para dar suporte seja financeiramente, ou até mesmo presencialmente. Dentro da plataforma o voluntário pode ter acesso ao whatsapp e email da ONG, assim podendo ele se comunicar com ela, e para isso basta ele clicar em um dos botões que será automaticamente redirecionado.
+ <p align="center">
+  <img src="mobile/src/assets/logo@3x.png" />
+  
+  <p align="center">
+  App to help NGOs built with ReactJS, React Native, Node.js and more.
+  </p>
+
+  <img src=".github/banner.png" />
+
+  > This project was made for learning purposes only and comes from Rocketseat's omnistack week crash course #11 with my own modifications
+</p>
  
-
-
-
 
 
 
@@ -51,8 +59,7 @@ Para encerrar qualquer um dos comandos anteriores basta pressionar ctrl+c no ter
 * **Fernando Ferreira** - [fernando-ff](https://github.com/fernando-ff)
 
 ## License
-Este projeto é licenciado pela MIT licença
-Este projeto é licenciado pela ISC
+[MIT License](/LICENSE)
 
 ## Agradecimentos
 
