@@ -1,62 +1,75 @@
-# Be The Hero
+<div align="center" id="top"> 
+  <img src="./assets/Screenshot_2020-08-28 Front-end Alura - Cursos online de tecnologia.png" alt="Be The Hero" />
 
- Plataforma para o cadastro de Ongs, nela a instituição pode cadastrar casos que necessitam de ajuda e assim encontrar um "herói" para dar suporte seja financeiramente, ou até mesmo presencialmente. Dentro da plataforma o voluntário pode ter acesso ao whatsapp e email da ONG, assim podendo ele se comunicar com ela, e para isso basta ele clicar em um dos botões que será automaticamente redirecionado.
- 
- 
- <p align="center">
-  <img src="https://raw.githubusercontent.com/daltonmenezes/be-the-hero/master/.github/banner.png" />
+  &#xa0;
 
- 
+  <!-- <a href="https://bethehero.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">Be The Hero</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/fernando-ff/be-the-hero?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/fernando-ff/be-the-hero?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/fernando-ff/be-the-hero?color=56BEB8">
+<!-- 
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/be-the-hero?color=56BEB8"> -->
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/be-the-hero?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/be-the-hero?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/be-the-hero?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Be The Hero 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="https://github.com/fernando-ff" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+A platform to find heroes that desire help people with  any problem.
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Login;\
+:heavy_check_mark: Register a user;\
+:heavy_check_mark: Register a case;\
+:heavy_check_mark: Find Cases;
+
+## :white_check_mark: Project Image ##
+
+  <img src="./assets/banner.png" alt="Be The Hero" />
+
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
 
 
 
-### Pré-requisitos
+Made with :heart: by <a href="https://github.com/fernando-ff" target="_blank">Fernando Ferreira</a>
 
-Ter o gerenciador de pacotes npm instalado em sua máquina.
-Ter uma cópia do projeto em sua máquina.
-Ter o aplicativo expo instalado no seu celular.
+&#xa0;
 
-
-### Instalando
-
-Com o gerenciador de pacotes npm em sua máquina e o clone do repositorio
-
-Para executar o projeto no Brownser.
-Acesse a pasta backend através do terminal de sua máquina, em seguida execute npm start.
-Após isso acesse a pasta frontend pelo terminal de sua máquina, execute npm start.
-Em seu browser deve ser aberto uma aba automaticamente que vai direciona-lo a porta 3000.
-Nela você deve ver a plataforma sendo executada.
-Para encerrar qualquer um dos comandos anteriores basta pressionar ctrl+c no terminal que está sendo executado.
-
-
-Para executar o projeto no celular.
-Você tera que baixar o expo na playstore.
-Em seguida acessar a pasta backend através do terminal de sua máquina, em seguida execute npm start.
-Após isso acesse a pasta mobile pelo terminal de sua máquina, execute yarn start.
-Uma página em seu brownser deve ser aberta, com o expo em seu celular pressione "scan QR code" direcione a câmera do seu celular para o QR code que foi aberto, após feita a leitura o mobile deve estar rodando em seu celular.
-Para encerrar qualquer um dos comandos anteriores basta pressionar ctrl+c no terminal que está sendo executado.
-
-
-## Construído com
-
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Principal linguagem de programação usada
-* [NodeJS](https://nodejs.org/en/) - Interpretador javaScript utilizado na construção do backend
-* [Express](https://expressjs.com/pt-br/) - Framework utilizado na construção do backend
-* [SQLite3](https://www.sqlite.org/index.html) - Banco de Dados Relacional utilizado
-* [CSS3](https://rometools.github.io/rome/) - Ferramente de estilização utilizada
-* [ReactNative](https://reactnative.dev/) - Biblioteca Java Script utilizada para o desenvolvimento do mobile 
-* [ReactJS](https://pt-br.reactjs.org/) - Biblioteca Java Script utilizada para o desenvolvimento do frontend
-
-## Autores
-
-* **Diego Fernandes**	- [Diego3g](https://github.com/Diego3g)
-* **Fernando Ferreira** - [fernando-ff](https://github.com/fernando-ff)
-
-## License
-[MIT License](/LICENSE)
-
-## Agradecimentos
-
-* https://rocketseat.com.br/
-	
-
+<a href="#top">Back to top</a>
